@@ -59,3 +59,7 @@ JavaScript ile gerçek bir uygulama geliştirme deneyimi kazandım
 UI/UX tasarımında daha iyi düşünmeyi öğrendim
 
 GitHub üzerinde proje dokümantasyonu hazırlama pratiği yaptım
+
+# EKRAN GÖRÜNTÜSÜ
+
+<img src="./assets/playlist.gif">
